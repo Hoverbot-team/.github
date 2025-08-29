@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi
+Here you'll every piece of code needed for the Hoverbot robot
 <!--
 
 **Here are some ideas to get you started:**
